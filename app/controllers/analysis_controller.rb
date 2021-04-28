@@ -5,3 +5,7 @@ end
 def upload
     @analyses.upload
 end
+
+def create
+    analisi.create
+end

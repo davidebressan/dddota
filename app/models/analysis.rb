@@ -3,5 +3,9 @@ def analyses_ids
 end
 
 def
-   self.destroy 
+   self.destroy
+end
+
+def create
+    self.save!
 end
