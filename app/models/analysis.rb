@@ -9,3 +9,7 @@ end
 def create
     self.save!
 end
+
+def helper
+    @a = a
+end
