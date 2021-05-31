@@ -9,3 +9,7 @@ end
 def create
     analisys.create
 end
+
+def edit
+    @analysis.edit
+end
