@@ -13,3 +13,7 @@ end
 def destroy
     self.destroy!
 end
+
+def helper
+    @a = alfa
+end

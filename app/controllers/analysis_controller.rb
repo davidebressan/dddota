@@ -7,5 +7,5 @@ def upload
 end
 
 def create
-    analisys = analysis.create
+    analisys.create
 end
