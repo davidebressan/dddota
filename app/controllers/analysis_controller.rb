@@ -16,3 +16,4 @@ end
 
 def update
     @analysis.update
+end
