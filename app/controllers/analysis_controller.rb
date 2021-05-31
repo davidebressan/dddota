@@ -15,3 +15,4 @@ def edit
 end
 
 def update
+    @analysis.update
