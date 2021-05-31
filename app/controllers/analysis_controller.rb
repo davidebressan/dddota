@@ -11,3 +11,4 @@ def create
 end
 
 def edit
+    @analysis.edit
