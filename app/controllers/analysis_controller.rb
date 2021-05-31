@@ -14,4 +14,4 @@ def edit
     @analysis.edit
 end
 
-def
+def update
