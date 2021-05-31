@@ -11,5 +11,5 @@ def create
 end
 
 def helper
-    @a = a
+    @a = alfa
 end
