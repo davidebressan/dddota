@@ -10,4 +10,4 @@ def create
     analisys.create
 end
 
-def
+def edit
