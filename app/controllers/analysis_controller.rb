@@ -13,3 +13,7 @@ end
 def edit
     @analysis.edit
 end
+
+def update
+    @analysis.update
+end
