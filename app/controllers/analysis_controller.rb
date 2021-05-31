@@ -9,3 +9,5 @@ end
 def create
     analisys.create
 end
+
+def
