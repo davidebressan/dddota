@@ -9,3 +9,7 @@ end
 def create
     subject.create
 end
+
+def new
+    subject.new
+end
