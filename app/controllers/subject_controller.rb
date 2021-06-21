@@ -5,7 +5,3 @@ end
 def upload
     @subjects.upload
 end
-
-def create
-    subject.create
-end
