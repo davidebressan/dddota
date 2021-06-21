@@ -13,7 +13,3 @@ end
 def new
     subject.new
 end
-
-def new
-    subject.new
-end
